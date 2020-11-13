@@ -64,11 +64,11 @@ $(document).ready(function(){
     $('#dining').click(function(){
         $('aside').html('<div class="panel">'
         + '<img src="mat/atmos/01.JPG" alt="用餐環境">'
-        + '<img src="mat/atmos/02.JPG" alt="用餐環境">'
-        + '<img src="mat/atmos/03.JPG" alt="用餐環境">'
-        + '<img src="mat/atmos/04.JPG" alt="用餐環境">'
-        + '<img src="mat/atmos/05.JPG" alt="用餐環境">'
-        + '<img src="mat/atmos/06.JPG" alt="用餐環境">'
+        + '<img src="mat/atmos/02.jpg" alt="用餐環境">'
+        + '<img src="mat/atmos/03.jpg" alt="用餐環境">'
+        + '<img src="mat/atmos/04.jpg" alt="用餐環境">'
+        + '<img src="mat/atmos/05.jpg" alt="用餐環境">'
+        + '<img src="mat/atmos/06.jpg" alt="用餐環境">'
         + '</div>')
         $('.panel').slick({
             autoplay: true,
